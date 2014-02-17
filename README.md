@@ -1,17 +1,14 @@
-pycon-code-of-conduct
+pgconfeu-code-of-conduct
 =====================
 
-This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. 
+This is a "fork" of the PyCon code of conduct including the staff and attendee
+guides.
 
-Thank you to Adria Richards and many others with the Python Software Foundation and Python community for recommending
-that we publicly discuss and version control these documents so changes can be suggested, wording corrected and we can
-continue to iterate, as a community on these policies and procedures.
+We will be maintaining the code of conduct in a public Git repository for ease
+of review as we will be seeking input from multiple parties.
 
-PyCon and the community as a whole are still very much in a learning process, the conference is 11 years old and still
-evolving daily. Each year we see massive improvements (such as the code of conduct and staff procedures) and PyCon 2013
-was no different.
+This code of conduct will be tagged on a yearly basis to make clear what the
+final code is for each conference.  This will then be agree by the conference
+chair and published on the main conference website.
 
 We hope, as a team we can iterate and improve continually.
-
-No changes are final until approved by the PyCon Chair / Staff and versions in place for a given year will be clearly
-marked, the website contents on us.pycon.org will clearly state the revision of the documents posted.
